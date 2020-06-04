@@ -1,0 +1,8 @@
+numpy
+tensorflow
+time
+os
+warnings
+tqdm
+random
+itertools
