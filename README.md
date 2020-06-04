@@ -9,13 +9,11 @@ pip install -r requirements.txt
 ## Run Python MNIST data set without Keras
 
 python -W ignore MNIST_python_version/MNIST_Multinomial_version/MNIST_MultiLogReg.py <br />
-Rscript MNIST_R_version/MNIST_Multinomial_version/MNIST_MultiLogReg.R <br />
 
 
-## Run Python or R MNIST data set with Keras
+## Run Python MNIST data set with Keras
 
 python -W ignore MNIST_python_version/MNIST_keras/MNIST_keras.py <br />
-Rscript MNIST_R_version/MNIST_Keras_version/MNIST_MultiLogReg.R <br />
 
 
 ## Run Python on COVID-19 Detection X-Ray Dataset data set with Keras
